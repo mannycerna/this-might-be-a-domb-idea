@@ -22,6 +22,6 @@ let myImage2 = document.querySelector("#image-2");
 myImage2.style.height = '300px';
 
 let item16 = document.querySelector("#item-16");
-item16.classList.add("item");
+item16.className ='item';
 item16.innerText = "Won't get fooled again."
 
